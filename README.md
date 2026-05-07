@@ -38,5 +38,3 @@ The main objective of this project is to create an engaging quiz platform that n
 ## 👨‍💻 Team Members
 👤  Radhiga V M
 👤  Sowndharya B
-
-👤  
